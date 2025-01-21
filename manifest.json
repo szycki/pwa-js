@@ -2,7 +2,7 @@
 	"name": "PWA TEST",
 	"short_name": "PWA",
 	"lang": "en-US",
-	"start_url": "/index.html",
+	"start_url": "/pwa-js/index.html",
 	"display": "standalone",
 	"background_color": "#ffffff",
 	"theme_color": "#db4938",
