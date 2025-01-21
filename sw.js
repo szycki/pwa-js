@@ -1,10 +1,10 @@
 const cacheName = 'pwa-v1';
 
 const filesToCache = [
-	'/',
-	'/index.html',
-	'/style.css',
-	'/js/main.js'
+	'/pwa-js/',
+	'/pwa-js/index.html',
+	'/pwa-js/style.css',
+	'/pwa-js/js/main.js'
 ];
 
 self.addEventListener('install', (event) => {
