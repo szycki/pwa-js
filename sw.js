@@ -4,7 +4,9 @@ const filesToCache = [
 	'/pwa-js/',
 	'/pwa-js/index.html',
 	'/pwa-js/style.css',
-	'/pwa-js/js/main.js'
+	'/pwa-js/js/main.js',
+	'/pwa-js/cats.html',
+	'/pwa-js/dogs.html'
 ];
 
 self.addEventListener('install', (event) => {

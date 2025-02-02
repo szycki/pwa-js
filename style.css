@@ -22,6 +22,16 @@ main {
 	animation: fadeIn 2s ease-in-out;
 }
 
+.memes-container {
+	margin: 2rem 0;
+}
+
+.meme {
+	max-width: 80%;
+	height: auto;
+	animation: fadeIn 4s ease-in-out;
+}
+
 @keyframes fadeIn {
 	from {
 		opacity: 0;
